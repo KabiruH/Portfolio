@@ -3,12 +3,12 @@ Technologies Used
 
 Here's a list of technologies you'll find in this portfolio:
 
-    JavaScript Icon JavaScript
-    React Icon React
-    Ruby Icon Ruby
-    Ruby on Rails Icon Ruby on Rails
-    HTML Icon HTML
-    CSS Icon CSS
+JavaScript Icon JavaScript
+React Icon React
+Ruby Icon Ruby
+Ruby on Rails Icon Ruby on Rails
+HTML Icon HTML
+CSS Icon CSS
 
 Projects
 
@@ -27,8 +27,8 @@ Project 1: Events Manager
             Rails v7.0.4
             active_model_serializers v0.10.13
 
-    GitHub Repository: Events-Manager[Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
-    Live Demo: [Link to Live Demo](events-manager-rose.vercel.app) 
+  GitHub Repository: Events-Manager[Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
+  Live Demo: [Link to Live Demo](events-manager-rose.vercel.app) 
 
 Project 2: Articles App
     Description: Moringa School Daily.dev is a mini web application for the Moringa Community that enables users to get authentic and verified articles/blogs about the tech space created by the Moringa school community.
@@ -42,8 +42,8 @@ Project 2: Articles App
             Tailwind CSS
             Daisy UI
 
-    GitHub Repository: Articles[Link to GitHub Repo](https://github.com/KabiruH/Article-App)
-    Live Demo: [Link to Live Demo](article-app-plum.vercel.app) 
+  GitHub Repository: Articles[Link to GitHub Repo](https://github.com/KabiruH/Article-App)
+  Live Demo: [Link to Live Demo](article-app-plum.vercel.app) 
 
 Project 3: Movies Project
     Description: A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
@@ -52,17 +52,17 @@ Project 3: Movies Project
             React 18.2.+
             JavaScript
 
-    GitHub Repository: Movies-project[Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
-    Live Demo: [Link to Live Demo](movies-project-omega.vercel.app)
+  GitHub Repository: Movies-project[Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
+  Live Demo: [Link to Live Demo](movies-project-omega.vercel.app)
 
 
 Contact Me
 
 I'm always excited to connect with fellow developers, collaborators, and potential employers. Feel free to reach out to me through the following channels:
 
-    Email: [huriakelvin@gmail.com](mailto:huriakelvin@gmail.com)
-    LinkedIn: [Kelvin](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
-    GitHub: [Profile](https://github.com/KabiruH)
+ Email: [huriakelvin@gmail.com](mailto:huriakelvin@gmail.com)
+ LinkedIn: [Kelvin](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
+ GitHub: [Profile](https://github.com/KabiruH)
 
 Let's connect and discuss how we can create amazing solutions together!
 
