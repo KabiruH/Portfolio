@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm Kelvin, a software developer with a passion in software development
+            I'm Kelvin, a software developer with a passion in development.
               <br />
               <br />I am fluent in classics like
               <i>
@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, I apply my passion for developing products
               with <b className="purple">Next.js</b> and
               <i>
                 <b className="purple">
@@ -59,10 +59,10 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
+           
+            <h1>
               Feel free to <span className="purple">connect </span>with me
-            </p>
+            </h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a

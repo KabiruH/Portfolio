@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Events"
-              description="Mimik Events is a mock web application that aims at gathering information on forthcoming events and present them in a user-friendly manner, thereby assisting individuals in eﬀortlessly discovering events."
+              description="Mimik Events is a mock web application that aims at gathering information on forthcoming events and presenting them in a user-friendly manner, thereby assisting individuals in eﬀortlessly discovering events."
               ghLink="https://github.com/KabiruH/Events-manager"
               demoLink="https://events-manager-rose.vercel.app/"
             />
