@@ -27,7 +27,7 @@ Project 1: Events Manager
             Rails v7.0.4
             active_model_serializers v0.10.13
 
-  GitHub Repository: Events-Manager[Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
+  GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
   Live Demo: [Link to Live Demo](events-manager-rose.vercel.app) 
 
 Project 2: Articles App
@@ -42,7 +42,7 @@ Project 2: Articles App
             Tailwind CSS
             Daisy UI
 
-  GitHub Repository: Articles[Link to GitHub Repo](https://github.com/KabiruH/Article-App)
+  GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Article-App)
   Live Demo: [Link to Live Demo](article-app-plum.vercel.app) 
 
 Project 3: Movies Project
@@ -52,7 +52,7 @@ Project 3: Movies Project
             React 18.2.+
             JavaScript
 
-  GitHub Repository: Movies-project[Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
+  GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
   Live Demo: [Link to Live Demo](movies-project-omega.vercel.app)
 
 
@@ -60,9 +60,9 @@ Contact Me
 
 I'm always excited to connect with fellow developers, collaborators, and potential employers. Feel free to reach out to me through the following channels:
 
- Email: [huriakelvin@gmail.com](mailto:huriakelvin@gmail.com)
- LinkedIn: [Kelvin](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
- GitHub: [Profile](https://github.com/KabiruH)
+ Email: [My Email](mailto:huriakelvin@gmail.com)
+ LinkedIn: [My Profile](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
+ GitHub: [My Profile](https://github.com/KabiruH)
 
 Let's connect and discuss how we can create amazing solutions together!
 
