@@ -14,7 +14,7 @@ Projects
 
 Take a look at some of the projects featured in my portfolio:
 
-    Project 1: Events Manager
+Project 1: Events Manager
     Description: A web application built with Ruby on Rails and React that helps users manage their tasks and organize their workflow efficiently.
     Technologies Used: 
 
@@ -27,7 +27,7 @@ Take a look at some of the projects featured in my portfolio:
             Rails v7.0.4
             active_model_serializers v0.10.13
 
-    GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
+    GitHub Repository: Events-Manager[Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
     Live Demo: [Link to Live Demo](events-manager-rose.vercel.app) 
 
 Project 2: Articles App
@@ -42,17 +42,17 @@ Project 2: Articles App
             Tailwind CSS
             Daisy UI
 
-    GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Article-App)
+    GitHub Repository: Articles[Link to GitHub Repo](https://github.com/KabiruH/Article-App)
     Live Demo: [Link to Live Demo](article-app-plum.vercel.app) 
 
-    Project 2: Movies Project
+Project 3: Movies Project
     Description: A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
     Technologies Used: 
 
             React 18.2.+
             JavaScript
 
-    GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
+    GitHub Repository: Movies-project[Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
     Live Demo: [Link to Live Demo](movies-project-omega.vercel.app)
 
 
