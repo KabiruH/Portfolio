@@ -51,6 +51,17 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Project Management App"
+              description="This app is meant to help create Award centers, track participants, projects tied to the said participants, and track finances among much more."
+              ghLink="https://github.com/KabiruH/Project-Management-Frontend"
+              demoLink="https://project-management-frontend-nine.vercel.app/"              
+            />
+          </Col>
+
           </Row>
       </Container>
     </Container>
