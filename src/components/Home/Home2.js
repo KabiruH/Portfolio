@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> JavaScript, React, Ruby, Ruby on Rails, HTML, and CSS. </b>
+                <b className="purple"> JavaScript: React & NextJS, ASP.NET, Ruby: Ruby on Rails, HTML, and CSS. </b>
               </i>
               <br />
               <br />

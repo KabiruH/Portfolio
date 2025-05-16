@@ -30,6 +30,10 @@ function ResumeNew() {
             &nbsp;Download CV
           </Button>
         </Row>
+<br/>
+        <p>
+         Need a quotation, reach out to me through my email, huriakelvin@gmail.com
+        </p>
 
         <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
