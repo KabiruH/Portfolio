@@ -1,3 +1,4 @@
+// components/Footer.js
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
@@ -14,10 +15,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Developed by Kelvin Huria</h3>
+          <h3>Developed by Kelvin Kabiru</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} KH</h3>
+          <h3>Copyright © {year} KK</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -25,7 +26,7 @@ function Footer() {
               <a
                 href="https://github.com/KabiruH"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -35,7 +36,7 @@ function Footer() {
               <a
                 href="https://twitter.com/kabiruhuria"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
@@ -45,7 +46,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/kelvin-huria-79ab626a/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -55,7 +56,7 @@ function Footer() {
               <a
                 href="https://instagram.com/kabiruhuria?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />

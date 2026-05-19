@@ -1,3 +1,4 @@
+// components/About/AboutCard.js
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
@@ -8,29 +9,38 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Kelvin Huria </span>
-            from <span className="purple"> Nairobi, Kenya.</span>
-            <br /> A dedicated programmer with a strong background in JavaScript, React, Node, and Ruby who strives to create innovative solutions that meet user needs.
-            
+            Hi, I'm <span className="purple">Kelvin Kabiru</span> from{" "}
+            <span className="purple">Nairobi, Kenya</span> — a full-stack
+            software engineer with a background in economics and statistics.
             <br />
-            Apart from coding, some other activities that I love to do!
+            <br />
+            I build and deploy production web and mobile applications, primarily
+            with{" "}
+            <span className="purple">
+              Next.js, TypeScript, React Native, Prisma ORM, and MySQL
+            </span>
+            . My projects range from attendance management systems for Kenyan
+            technical colleges to hotel booking platforms, NGO donation portals,
+            and B2B industrial websites.
+            <br />
+            <br />
+            Beyond coding, a few things I enjoy:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Outdoor thrilling activities
             </li>
             <li className="about-activity">
-              <ImPointRight /> Outdoor Thrilling Activities
+              <ImPointRight /> Travelling and exploring new places
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Strategy games and problem-solving
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that matter!"{" "}
+          <p style={{ color: "#2563eb", marginTop: "12px" }}>
+            "Build things that matter — and make them work beautifully."
           </p>
-          <footer className="blockquote-footer">Huria</footer>
+          <footer className="blockquote-footer">Kelvin Kabiru</footer>
         </blockquote>
       </Card.Body>
     </Card>

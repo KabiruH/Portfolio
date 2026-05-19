@@ -1,3 +1,5 @@
+//components/Home/Home.js
+
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
