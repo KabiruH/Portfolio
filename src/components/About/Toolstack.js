@@ -9,30 +9,25 @@ import {
   SiMysql,
 } from "react-icons/si";
 
+function ToolItem({ icon, name }) {
+  return (
+    <Col xs={4} md={2} className="tech-icons">
+      <div className="tech-icon-wrapper">
+        {icon}
+        <span className="tech-icon-label">{name}</span>
+      </div>
+    </Col>
+  );
+}
+
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMysql />
-      </Col>
-
+      <ToolItem icon={<SiVisualstudiocode />} name="VS Code" />
+      <ToolItem icon={<SiGithub />}           name="GitHub" />
+      <ToolItem icon={<SiPostman />}          name="Postman" />
+      <ToolItem icon={<SiVercel />}           name="Vercel" />
+      <ToolItem icon={<SiMysql />}            name="MySQL" />
     </Row>
   );
 }

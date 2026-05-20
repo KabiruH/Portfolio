@@ -40,7 +40,7 @@ function AboutCard() {
           <p style={{ color: "#2563eb", marginTop: "12px" }}>
             "Build things that matter — and make them work beautifully."
           </p>
-          <footer className="blockquote-footer">Kelvin Kabiru</footer>
+          <footer className="blockquote-footer">Kelvin Huria</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -7,13 +7,13 @@ import Particle from "../Particle";
 // TODO: Replace these with actual screenshots of each project.
 // Recommended: take a full-page screenshot of each live site and save to src/Assets/Projects/
 import shinyangaImg from "../../Assets/Projects/events.png";       // replace → shinyanga.png
-import havanCutzImg from "../../Assets/Projects/attendance.jpg";   // replace → havancutz.png
-import cognisiveImg from "../../Assets/Projects/prof.jpg";         // replace → cognisive.png
+import havanCutzImg from "../../Assets/Projects/cutz.jpg";   // replace → havancutz.png
+import cognisiveImg from "../../Assets/Projects/cog.jpg";         // replace → cognisive.png
 import rapidTowImg from "../../Assets/Projects/towing.jpg";        // good match ✓
-import rsfImg from "../../Assets/Projects/movies.png";             // replace → rsf.png
-import hippoBuckImg from "../../Assets/Projects/codeEditor.png";   // replace → hippobuck.png
+import rsfImg from "../../Assets/Projects/res.jpg";             // replace → rsf.png
+import hippoBuckImg from "../../Assets/Projects/hip.jpg";   // replace → hippobuck.png
 import ubiruImg from "../../Assets/Projects/prof.jpg";             // replace → ubiru.png
-import kejoatImg from "../../Assets/Projects/attendance.jpg";      // replace → kejoat.png
+import kejoatImg from "../../Assets/Projects/kej.jpg";      // replace → kejoat.png
 
 function Projects() {
   return (

@@ -1,87 +1,108 @@
-Welcome to my portfolio! I'm a passionate software developer with expertise in a range of technologies, including JavaScript, React, Ruby, Ruby on Rails, HTML, and CSS. I'm dedicated to crafting elegant and efficient solutions to complex problems, and this portfolio showcases some of my proudest projects.
-Technologies Used
+# Kelvin Kabiru — Portfolio
 
-Here's a list of technologies you'll find in this portfolio:
+Full-stack software engineer based in **Nairobi, Kenya**, building production web and mobile applications for clients across Kenya and the US. This portfolio showcases selected client projects built under [Ubiru Systems](mailto:hello@ubiruafrica.co.ke).
 
+---
 
-      
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 🛠️ Tech Stack
 
-![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+---
 
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🚀 Featured Projects
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 1. Shinyanga House
+Premium event gardens and hospitality venue in Limuru, Kenya. Covers weddings, corporate events, photo shoots, and accommodation bookings.
+- **Stack:** Next.js 14, Tailwind CSS, Vercel
+- **GitHub:** [KabiruH/shinyanga-house](https://github.com/KabiruH/shinyanga-house)
+- **Live:** [shinyanga-house.vercel.app](https://shinyanga-house.vercel.app/)
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)    
+---
 
-Projects
+### 2. Havan Cutz
+Barbershop booking platform — clients can book, reschedule, and look up appointments; staff have a dedicated login and management dashboard.
+- **Stack:** Next.js, TypeScript, Vercel
+- **GitHub:** [KabiruH/barber-appointment](https://github.com/KabiruH/barber-appointment)
+- **Live:** [barber-appointment-lovat.vercel.app](https://barber-appointment-lovat.vercel.app/)
 
-Take a look at some of the projects featured in my portfolio:
+---
 
-Project 1: Events Manager
-    Description: A web application built with Ruby on Rails and React that helps users manage their tasks and organize their workflow efficiently.
-    Technologies Used: 
+### 3. Cognisive Ventures
+Corporate website for a Nairobi-based IT solutions firm covering hardware upgrades, Windows installations, networking, and computer supply.
+- **Stack:** Next.js, TypeScript, Vercel
+- **GitHub:** [KabiruH/cognisive-ventures](https://github.com/KabiruH/cognisive-ventures)
+- **Live:** [cognisive-ventures.vercel.app](https://cognisive-ventures.vercel.app/)
 
-            React 18.2.+
-            Ruby v2.7.+
-            SQlite3 v1.6
-            ActiveRecord v7.0.4
-            Rake v13.0.6
-            Puma v6.1
-            Rails v7.0.4
-            active_model_serializers v0.10.13
+---
 
-  GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Events-manager)
-  Live Demo: [Link to Live Demo](events-manager-rose.vercel.app) 
+### 4. Rapid Tow Recovery
+24/7 emergency towing and roadside assistance service covering multiple U.S. states. Features transparent pricing and instant call-to-action.
+- **Stack:** Next.js, TypeScript, Tailwind CSS
+- **GitHub:** [KabiruH/rapid-tow](https://github.com/KabiruH/rapid-tow)
+- **Live:** [rapid-tow-nu.vercel.app](https://rapid-tow-nu.vercel.app/)
 
-Project 2: Articles App
-    Description: Moringa School Daily.dev is a mini web application for the Moringa Community that enables users to get authentic and verified articles/blogs about the tech space created by the Moringa school community.
+---
 
-    Technologies Used: 
+### 5. Resilient Scholars Foundation
+NGO platform empowering underprivileged Kenyan high school students through scholarships and mentorship. Includes M-Pesa and PayPal donation flows.
+- **Stack:** Next.js, M-Pesa API, PayPal API, Vercel
+- **GitHub:** [KabiruH/RSF](https://github.com/KabiruH/RSF)
+- **Live:** [rsf-two.vercel.app](https://rsf-two.vercel.app/)
 
-            React
-            Ruby
-            Rails
-            Postgres
-            Tailwind CSS
-            Daisy UI
+---
 
-  GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Article-App)
-  Live Demo: [Link to Live Demo](article-app-plum.vercel.app) 
+### 6. Hotel Hippo Buck
+Hotel booking system for a lakeside property in Homa Bay Town. Dual-currency pricing (KES/USD), M-Pesa integration, and email notifications via Resend.
+- **Stack:** Next.js, Prisma, MySQL, M-Pesa API, Resend
+- **GitHub:** [KabiruH/Hippo-Buck](https://github.com/KabiruH/Hippo-Buck)
+- **Live:** [hippo-buck.vercel.app](https://hippo-buck.vercel.app/)
 
-Project 3: Movies Project
-    Description: A responsive and interactive website developed using HTML, CSS, and JavaScript. It showcases my design and front-end development skills.
-    Technologies Used: 
+---
 
-            React 18.2.+
-            JavaScript
+### 7. Ubiru Industries
+Company profile site showcasing services across event planning, communications, software development, and hardware procurement.
+- **Stack:** React, Vercel
+- **GitHub:** [KabiruH/ubiru-industries](https://github.com/KabiruH/ubiru-industries)
+- **Live:** [ubiru-industries.vercel.app](https://ubiru-industries.vercel.app/)
 
-  GitHub Repository: [Link to GitHub Repo](https://github.com/KabiruH/Movies_project)
-  Live Demo: [Link to Live Demo](movies-project-omega.vercel.app)
+---
 
+### 8. KEJOAT Limited
+B2B website for Kenya's authorized distributor of Control Techniques variable speed drives — serving manufacturing, HVAC, and water treatment sectors.
+- **Stack:** Next.js, TypeScript, Vercel
+- **GitHub:** [KabiruH/kejoat-website](https://github.com/KabiruH/kejoat-website)
+- **Live:** [kejoat-website.vercel.app](https://kejoat-website.vercel.app/)
 
-Contact Me
+---
 
-I'm always excited to connect with fellow developers, collaborators, and potential employers. Feel free to reach out to me through the following channels:
+## 📬 Contact
 
- Email: [My Email](mailto:huriakelvin@gmail.com)
- LinkedIn: [My Profile](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
- GitHub: [My Profile](https://github.com/KabiruH)
+- **Email:** [huriakelvin@gmail.com](mailto:huriakelvin@gmail.com)
+- **LinkedIn:** [kelvin-huria-79ab626a](https://www.linkedin.com/in/kelvin-huria-79ab626a/)
+- **GitHub:** [KabiruH](https://github.com/KabiruH)
 
-Let's connect and discuss how we can create amazing solutions together!
+---
 
-Getting Started
+## 🏁 Getting Started
 
-If you're interested in exploring the code for any of these projects, here's how you can get started:
+```bash
+git clone https://github.com/KabiruH/portfolio.git
+cd portfolio
+npm install
+npm start
+```
 
-    Clone the repository: git clone https://github.com/yourusername/project1.git
-    Navigate to the project directory: cd project1
-    Install dependencies: npm install
-    Start the development server: npm start
+---
 
-Feel free to reach out if you have any questions or feedback about my projects. Thank you for visiting my portfolio!
-
-Created with ❤️ by Kelvin Huria
+Created with ❤️ by **Kelvin Kabiru**
