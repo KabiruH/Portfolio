@@ -4,10 +4,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-// TODO: Replace these with actual screenshots of each project.
 // Recommended: take a full-page screenshot of each live site and save to src/Assets/Projects/
 import shinyangaImg from "../../Assets/Projects/events.png";       // replace → shinyanga.png
 import havanCutzImg from "../../Assets/Projects/cutz.jpg";   // replace → havancutz.png
+import weddingImg from "../../Assets/Projects/wedding.png";      // replace → kejoat.png
 import cognisiveImg from "../../Assets/Projects/cog.jpg";         // replace → cognisive.png
 import rapidTowImg from "../../Assets/Projects/towing.jpg";        // good match ✓
 import rsfImg from "../../Assets/Projects/res.jpg";             // replace → rsf.png
@@ -48,6 +48,17 @@ function Projects() {
               description="Full-featured barbershop booking platform built with Next.js and TypeScript. Clients can book, reschedule, and look up appointments; staff have a dedicated login and management dashboard."
               ghLink="https://github.com/KabiruH/barber-appointment"
               demoLink="https://barber-appointment-lovat.vercel.app/"
+            />
+          </Col>
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={weddingImg}
+              isBlog={false}
+              title="Wedding Planner"
+              description="A personalised, invite-only wedding site built with Next.js and deployed on Vercel. Guests receive a unique link that opens a personalised invitation page with their name, event details, dress code, gift registry, a downloadable PDF card, and an RSVP form"
+              ghLink="https://github.com/KabiruH/wedding"
+              demoLink="https://wedding-eight-brown-95.vercel.app/"
             />
           </Col>
 
